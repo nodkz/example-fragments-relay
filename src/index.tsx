@@ -1,4 +1,3 @@
-import 'babel-plugin-relay/macro';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createBrowserHistory } from 'history';
